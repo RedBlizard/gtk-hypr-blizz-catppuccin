@@ -1,0 +1,1 @@
+# gtk-hypr-blizz
